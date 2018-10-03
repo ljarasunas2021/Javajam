@@ -1,0 +1,61 @@
+body {
+  background-image: url(../images/javabackground.gif);
+}
+
+h1 {
+  background-color: #D2B48C;
+  color: #000000;
+  text-align: center;
+  text-shadow: 3px 3px 3px #1e1e1e;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2 {
+  font-size: 190%;
+  font-style: bold;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+footer {
+  background-color: #D2B48C;
+  color: #000000;
+  font-size: 75%;
+  font-style: italic;
+  text-align: center;
+}
+
+dt {
+  font-size: 125%;
+}
+
+dd {
+  font-size: 125%;
+}
+
+li {
+  font-size: 125%;
+}
+
+dl {
+  font-size: 125%
+}
+
+#container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 75%;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  background-color: #fffae6;
+  box-shadow: 5px 5px 5px #1e1e1e;
+}
+
+nav {
+  text-align: center;
+}
